@@ -3,4 +3,4 @@
 
  csvbased-price-searcher
  
- if you have anyproblem mail me @ satyendera@gmail.com
+ if you have any problem/suggestion mail me @ satyendera@gmail.com
